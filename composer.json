@@ -3,10 +3,6 @@
 	"description": "A simple editor.js html parser for Laravel",
 	"type": "library",
 	"license": "MIT",
-	"repositories": [
-	        {"type": "composer", "url": "https://repo.packagist.com/jhons-gh/"},
-	        {"packagist.org": false}
-        ],
 	"authors": [
 		{
 			"name": "Al-Amin Firdows",
